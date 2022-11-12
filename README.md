@@ -3,3 +3,4 @@ URFU soft engeneering lesson 1
 
 # this commit was created by modernpacifist
 # this commit was created by recycletechno
+# sample text
